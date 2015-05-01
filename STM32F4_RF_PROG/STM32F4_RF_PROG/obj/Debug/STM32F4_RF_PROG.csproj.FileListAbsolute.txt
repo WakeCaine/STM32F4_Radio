@@ -1,0 +1,33 @@
+d:\moje dokumenty\visual studio 2012\Projects\STM32F4_RF_PROG\STM32F4_RF_PROG\bin\Debug\STM32F4_RF_PROG.exe.config
+d:\moje dokumenty\visual studio 2012\Projects\STM32F4_RF_PROG\STM32F4_RF_PROG\bin\Debug\STM32F4_RF_PROG.exe
+d:\moje dokumenty\visual studio 2012\Projects\STM32F4_RF_PROG\STM32F4_RF_PROG\bin\Debug\STM32F4_RF_PROG.pdb
+d:\moje dokumenty\visual studio 2012\Projects\STM32F4_RF_PROG\STM32F4_RF_PROG\obj\Debug\STM32F4_RF_PROG.csprojResolveAssemblyReference.cache
+d:\moje dokumenty\visual studio 2012\Projects\STM32F4_RF_PROG\STM32F4_RF_PROG\obj\Debug\STM32F4_RF_PROG.Form1.resources
+d:\moje dokumenty\visual studio 2012\Projects\STM32F4_RF_PROG\STM32F4_RF_PROG\obj\Debug\STM32F4_RF_PROG.Properties.Resources.resources
+d:\moje dokumenty\visual studio 2012\Projects\STM32F4_RF_PROG\STM32F4_RF_PROG\obj\Debug\STM32F4_RF_PROG.csproj.GenerateResource.Cache
+d:\moje dokumenty\visual studio 2012\Projects\STM32F4_RF_PROG\STM32F4_RF_PROG\obj\Debug\STM32F4_RF_PROG.exe
+d:\moje dokumenty\visual studio 2012\Projects\STM32F4_RF_PROG\STM32F4_RF_PROG\obj\Debug\STM32F4_RF_PROG.pdb
+D:\Moje Dokumenty\Visual Studio 2012\Projects\PROJEKT_PTM\STM32F4_RF_PROG\STM32F4_RF_PROG\bin\Debug\STM32F4_RF_PROG.exe.config
+D:\Moje Dokumenty\Visual Studio 2012\Projects\PROJEKT_PTM\STM32F4_RF_PROG\STM32F4_RF_PROG\obj\Debug\STM32F4_RF_PROG.exe
+D:\Moje Dokumenty\Visual Studio 2012\Projects\PROJEKT_PTM\STM32F4_RF_PROG\STM32F4_RF_PROG\obj\Debug\STM32F4_RF_PROG.pdb
+D:\Moje Dokumenty\Visual Studio 2012\Projects\PROJEKT_PTM\STM32F4_RF_PROG\STM32F4_RF_PROG\bin\Debug\STM32F4_RF_PROG.exe
+D:\Moje Dokumenty\Visual Studio 2012\Projects\PROJEKT_PTM\STM32F4_RF_PROG\STM32F4_RF_PROG\bin\Debug\STM32F4_RF_PROG.pdb
+D:\Moje Dokumenty\Visual Studio 2012\Projects\PROJEKT_PTM\STM32F4_RF_PROG\STM32F4_RF_PROG\obj\Debug\STM32F4_RF_PROG.csprojResolveAssemblyReference.cache
+D:\Moje Dokumenty\Visual Studio 2012\Projects\PROJEKT_PTM\STM32F4_RF_PROG\STM32F4_RF_PROG\obj\Debug\STM32F4_RF_PROG.Form1.resources
+D:\Moje Dokumenty\Visual Studio 2012\Projects\PROJEKT_PTM\STM32F4_RF_PROG\STM32F4_RF_PROG\obj\Debug\STM32F4_RF_PROG.Properties.Resources.resources
+D:\Moje Dokumenty\Visual Studio 2012\Projects\PROJEKT_PTM\STM32F4_RF_PROG\STM32F4_RF_PROG\obj\Debug\STM32F4_RF_PROG.csproj.GenerateResource.Cache
+<<<<<<< HEAD
+C:\Users\Shakecaine\Documents\GitHub\STM32F4_RF\STM32F4_RF_PROG\STM32F4_RF_PROG\bin\Debug\STM32F4_RF_PROG.exe.config
+C:\Users\Shakecaine\Documents\GitHub\STM32F4_RF\STM32F4_RF_PROG\STM32F4_RF_PROG\obj\Debug\STM32F4_RF_PROG.exe
+C:\Users\Shakecaine\Documents\GitHub\STM32F4_RF\STM32F4_RF_PROG\STM32F4_RF_PROG\obj\Debug\STM32F4_RF_PROG.pdb
+C:\Users\Shakecaine\Documents\GitHub\STM32F4_RF\STM32F4_RF_PROG\STM32F4_RF_PROG\bin\Debug\STM32F4_RF_PROG.exe
+C:\Users\Shakecaine\Documents\GitHub\STM32F4_RF\STM32F4_RF_PROG\STM32F4_RF_PROG\bin\Debug\STM32F4_RF_PROG.pdb
+C:\Users\Shakecaine\Documents\GitHub\STM32F4_RF\STM32F4_RF_PROG\STM32F4_RF_PROG\obj\Debug\STM32F4_RF_PROG.csprojResolveAssemblyReference.cache
+C:\Users\Shakecaine\Documents\GitHub\STM32F4_RF\STM32F4_RF_PROG\STM32F4_RF_PROG\obj\Debug\STM32F4_RF_PROG.Form1.resources
+C:\Users\Shakecaine\Documents\GitHub\STM32F4_RF\STM32F4_RF_PROG\STM32F4_RF_PROG\obj\Debug\STM32F4_RF_PROG.Properties.Resources.resources
+C:\Users\Shakecaine\Documents\GitHub\STM32F4_RF\STM32F4_RF_PROG\STM32F4_RF_PROG\obj\Debug\STM32F4_RF_PROG.csproj.GenerateResource.Cache
+=======
+D:\Moje Dokumenty\GitHub\STM32F4_RF\STM32F4_RF_PROG\STM32F4_RF_PROG\bin\Debug\STM32F4_RF_PROG.exe.config
+D:\Moje Dokumenty\GitHub\STM32F4_RF\STM32F4_RF_PROG\STM32F4_RF_PROG\obj\Debug\STM32F4_RF_PROG.exe
+D:\Moje Dokumenty\GitHub\STM32F4_RF\STM32F4_RF_PROG\STM32F4_RF_PROG\obj\Debug\STM32F4_RF_PROG.pdb
+>>>>>>> 96e0c085b4f1c588e0108f3d4e5569a6865daffb

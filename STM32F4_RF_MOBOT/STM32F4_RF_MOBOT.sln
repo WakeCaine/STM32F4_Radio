@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STM32F4_RF_MOBOT", "STM32F4_RF_MOBOT\STM32F4_RF_MOBOT.csproj", "{AF6AF324-B335-4C70-8D38-E9E48237B6D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF6AF324-B335-4C70-8D38-E9E48237B6D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF6AF324-B335-4C70-8D38-E9E48237B6D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF6AF324-B335-4C70-8D38-E9E48237B6D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF6AF324-B335-4C70-8D38-E9E48237B6D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

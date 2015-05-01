@@ -1,0 +1,28 @@
+			STM32F4_RF
+=============================================================
+
+-------------------------------------------------------------
+		INSTRUKCJA OBS£UGI 7.04.2014 
+-------------------------------------------------------------
+
+# PROGRAM PC  => STM
+
+	KOMENDY		|	OPIS
+___________________________________________________
+
+	"blue-on"	|	Zapala niebiesk¹ diodê.
+	"blue-off"	|	Gasi niebiesk¹ diodê.
+	"red-on"	|	Zapala czerwon¹ diodê.
+	"red-off"	|	Gasi czerwon¹ diodê.
+	"green-on"	|	Zapala zielon¹ diodê.
+	"green-off"	|	Gasi zielon¹ diodê.
+	"yellow-on"	|	Zapala ¿ó³t¹ diodê.
+	"yellow-off"	|	Gasi ¿ó³t¹ diodê.
+	"all-on"	|	Zapala wszystkie diody.
+	"all-off"	|	Gasi wszyskie diody. 
+		
+		
+# STM => PROGRAM PC 
+
+	NIEBIESKI PRZYCISK - po naciœniêciu przycisku
+	na konsoli wyœwietla siê komunikat o stanie diod.

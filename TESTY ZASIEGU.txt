@@ -1,0 +1,72 @@
+﻿Testy zasięgu połączenia radiowego:
+1.Bez przeszkody, oba nadajniki, do nadajnika bez antenki(nr1, z antenką jest nr2).
+a)moc:7, czułość:3 (najmniejsza czułość i moc)
+40-45cm następuje zanik transmisji
+b)moc:7, czułość:2
+90-95cm zanik transmisji
+c)moc:7, czułość:1
+220-230cm zanik transmisji
+d)moc:6, czułość:3
+160-170cm zanik transmisji
+e)moc:6, czułość:2
+210-220cm zanik transmisji
+f)moc:6, czułość:1
+około 330cm częściowy zanik
+
+1.1 Bez przeszkody, różna czułość i moc nadajników
+a)moc1:7, moc2:6 czułość: 3 (najmniejsza czułość i moc)
+Do 1: 90cm-w zwyż przerywanie transmisji, Do 2: podobnie
+b)moc1:7, moc2:5 czułość: 3
+Do 1: 90cm, Do2: 95cm
+c)moc1:7, moc2:7 czułość1: 3, czułość2: 2
+DO1: 70-80cm, Do2: podobnie lecz odbiera 10cm dalej sygnaly w dluzszych odstepach
+d)moc1:7, moc2:7 czułość1: 3, czułość2: 1
+Do1: 70-80cm, Do2: 90-95cm 
+e)moc1:7, moc2:7 czułość1: 3, czułość2: 0
+Do1: 70-80cm, Do2: 95-105cm
+f)moc1:7, moc2:6 czułość1: 3, czułość2: 2
+Do1: 90-100cm, Do2: 70-80cm
+g)moc1:7, moc2:6 czułość1: 3, czułość2: 1
+Do1: 90-100cm, Do2: 90-100cm
+h)moc1:7, moc2:6 czułość1: 3, czułość2: 0
+Do1: 90-100cm, Do2: 110-130cm 
+
+Niwelację wpływu na transmisję niewielkiej przeszkody 
+można osiągnąć poprzez zwiększenie mocy nadajnika.
+
+2.Oba nadajniki bez antenki
+a)moc:7, czułość:3 (najmniejsza czułość i moc)
+około 25cm zanik transmisji, poniżej 15cm brak komunikacji, najbardziej efektywna 20cm
+b)moc:7, czułość:2
+najbardziej efektywna 20cm, powyżej 25cm brak komunikacji lub znikoma
+c)moc:7, czułość:1
+około 50cm zanik transmisji
+d)moc:6, czułość:3
+około 40-45cm zanik transmisji lub znikoma
+e)moc:6, czułość:2
+około 60-65cm zanik transmisji lub znikoma(rzadkie pojedyńcze sygnały przy 80cm)
+f)moc:6, czułość:1
+około 115-120cm zanik transmisji lub znikoma
+
+Fakt odbioru pojedyńczych sygnałów poza punktem granicznym zaniku sygnału
+świadczy o obecności dodatkowych naturalnych anten(elementy otoczenia wzmacniają sygnał), 
+po których przenoszą się sygnały.
+
+
+2.1 Różna czułość i moc nadajników
+a)moc1:7, moc2:6 czułość: 3 (najmniejsza czułość i moc)
+Do 1: 60-65cm zanik transmisji, Do 2: 10-15cm zanik transmisji
+b)moc1:7, moc2:5 czułość: 3
+Do 1: 75-80cm zanik transmisji, Do2: około 20-25cm zanik transmisji
+c)moc1:7, moc2:7 czułość1: 3, czułość2: 2
+DO1: 15-20cm zanik transmisji lub znikoma,  Do2: 15-20cm zanik transmisji lub znikoma
+d)moc1:7, moc2:7 czułość1: 3, czułość2: 1
+Do1: 15-20cm zanik transmisji, Do2: około 80cm zanik transmisji
+e)moc1:7, moc2:7 czułość1: 3, czułość2: 0
+Do1: 20-25cm zanik transmisji , Do2: około 90cm zanik transmisji
+f)moc1:7, moc2:6 czułość1: 3, czułość2: 2
+Do1: 25-30cm zanik transmisji  , Do2: około 25-30cm zanik transmisji
+g)moc1:7, moc2:6 czułość1: 3, czułość2: 1
+Do1: 25-30cm zanik transmisji, Do2: 70-75cm zanik transmisji
+h)moc1:7, moc2:6 czułość1: 3, czułość2: 0
+Do1: 25-30cm zanik transmisji, Do2: 95-100 zanik transmisji

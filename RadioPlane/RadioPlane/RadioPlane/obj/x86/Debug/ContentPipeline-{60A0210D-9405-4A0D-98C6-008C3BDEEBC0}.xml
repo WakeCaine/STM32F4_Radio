@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>f16.png</Source>
+      <Name>f16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moje Dokumenty\Visual Studio 2012\Projects\PROJEKT_PTM\RadioPlane\RadioPlane\RadioPlane\bin\x86\Debug\Content\f16.xnb</Output>
+      <Time>2014-06-02T13:29:51.3749484+02:00</Time>
+    </Item>
+    <Item>
+      <Source>bigclouds1.png</Source>
+      <Name>bigclouds1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moje Dokumenty\Visual Studio 2012\Projects\PROJEKT_PTM\RadioPlane\RadioPlane\RadioPlane\bin\x86\Debug\Content\bigclouds1.xnb</Output>
+      <Time>2014-06-02T01:05:55.1504218+02:00</Time>
+    </Item>
+    <Item>
+      <Source>bigclouds2.png</Source>
+      <Name>bigclouds2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moje Dokumenty\Visual Studio 2012\Projects\PROJEKT_PTM\RadioPlane\RadioPlane\RadioPlane\bin\x86\Debug\Content\bigclouds2.xnb</Output>
+      <Time>2014-06-02T01:06:59.790119+02:00</Time>
+    </Item>
+    <Item>
+      <Source>miniclouds1.png</Source>
+      <Name>miniclouds1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moje Dokumenty\Visual Studio 2012\Projects\PROJEKT_PTM\RadioPlane\RadioPlane\RadioPlane\bin\x86\Debug\Content\miniclouds1.xnb</Output>
+      <Time>2014-05-17T14:06:00.260768+02:00</Time>
+    </Item>
+    <Item>
+      <Source>miniclouds2.png</Source>
+      <Name>miniclouds2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moje Dokumenty\Visual Studio 2012\Projects\PROJEKT_PTM\RadioPlane\RadioPlane\RadioPlane\bin\x86\Debug\Content\miniclouds2.xnb</Output>
+      <Time>2014-05-17T14:09:25.4915065+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sky.jpg</Source>
+      <Name>sky</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moje Dokumenty\Visual Studio 2012\Projects\PROJEKT_PTM\RadioPlane\RadioPlane\RadioPlane\bin\x86\Debug\Content\sky.xnb</Output>
+      <Time>2014-05-17T14:00:34.1001127+02:00</Time>
+    </Item>
+    <Item>
+      <Source>gamefont.spritefont</Source>
+      <Name>gamefont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moje Dokumenty\Visual Studio 2012\Projects\PROJEKT_PTM\RadioPlane\RadioPlane\RadioPlane\bin\x86\Debug\Content\gamefont.xnb</Output>
+      <Time>2014-05-31T21:34:49.9980825+02:00</Time>
+    </Item>
+    <Item>
+      <Source>btnexit.png</Source>
+      <Name>btnexit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moje Dokumenty\Visual Studio 2012\Projects\PROJEKT_PTM\RadioPlane\RadioPlane\RadioPlane\bin\x86\Debug\Content\btnexit.xnb</Output>
+      <Time>2014-05-19T13:48:18.1440318+02:00</Time>
+    </Item>
+    <Item>
+      <Source>btnplay.png</Source>
+      <Name>btnplay</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moje Dokumenty\Visual Studio 2012\Projects\PROJEKT_PTM\RadioPlane\RadioPlane\RadioPlane\bin\x86\Debug\Content\btnplay.xnb</Output>
+      <Time>2014-05-19T13:47:53.4516195+02:00</Time>
+    </Item>
+    <Item>
+      <Source>btnscore.png</Source>
+      <Name>btnscore</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moje Dokumenty\Visual Studio 2012\Projects\PROJEKT_PTM\RadioPlane\RadioPlane\RadioPlane\bin\x86\Debug\Content\btnscore.xnb</Output>
+      <Time>2014-05-19T13:48:47.116689+02:00</Time>
+    </Item>
+    <Item>
+      <Source>btnster.png</Source>
+      <Name>btnster</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moje Dokumenty\Visual Studio 2012\Projects\PROJEKT_PTM\RadioPlane\RadioPlane\RadioPlane\bin\x86\Debug\Content\btnster.xnb</Output>
+      <Time>2014-05-19T13:48:34.1259459+02:00</Time>
+    </Item>
+    <Item>
+      <Source>controlerkey.png</Source>
+      <Name>controlerkey</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moje Dokumenty\Visual Studio 2012\Projects\PROJEKT_PTM\RadioPlane\RadioPlane\RadioPlane\bin\x86\Debug\Content\controlerkey.xnb</Output>
+      <Time>2014-05-19T14:34:59.8032776+02:00</Time>
+    </Item>
+    <Item>
+      <Source>controlersignal.png</Source>
+      <Name>controlersignal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moje Dokumenty\Visual Studio 2012\Projects\PROJEKT_PTM\RadioPlane\RadioPlane\RadioPlane\bin\x86\Debug\Content\controlersignal.xnb</Output>
+      <Time>2014-05-19T14:36:12.9174595+02:00</Time>
+    </Item>
+    <Item>
+      <Source>lightgamefont.spritefont</Source>
+      <Name>lightgamefont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moje Dokumenty\Visual Studio 2012\Projects\PROJEKT_PTM\RadioPlane\RadioPlane\RadioPlane\bin\x86\Debug\Content\lightgamefont.xnb</Output>
+      <Time>2014-05-31T21:34:49.9400792+02:00</Time>
+    </Item>
+    <Item>
+      <Source>plane3.png</Source>
+      <Name>plane3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moje Dokumenty\Visual Studio 2012\Projects\PROJEKT_PTM\RadioPlane\RadioPlane\RadioPlane\bin\x86\Debug\Content\plane3.xnb</Output>
+      <Time>2014-06-02T00:51:45.1268032+02:00</Time>
+    </Item>
+    <Item>
+      <Source>explosion2.png</Source>
+      <Name>explosion2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moje Dokumenty\Visual Studio 2012\Projects\PROJEKT_PTM\RadioPlane\RadioPlane\RadioPlane\bin\x86\Debug\Content\explosion2.xnb</Output>
+      <Time>2014-06-02T01:03:32.5252641+02:00</Time>
+    </Item>
+    <Item>
+      <Source>treeA.png</Source>
+      <Name>treeA</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moje Dokumenty\Visual Studio 2012\Projects\PROJEKT_PTM\RadioPlane\RadioPlane\RadioPlane\bin\x86\Debug\Content\treeA.xnb</Output>
+      <Time>2014-06-02T13:52:17.3059313+02:00</Time>
+    </Item>
+    <Item>
+      <Source>treeB.png</Source>
+      <Name>treeB</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moje Dokumenty\Visual Studio 2012\Projects\PROJEKT_PTM\RadioPlane\RadioPlane\RadioPlane\bin\x86\Debug\Content\treeB.xnb</Output>
+      <Time>2014-06-02T13:53:19.7965055+02:00</Time>
+    </Item>
+    <Item>
+      <Source>treeC.png</Source>
+      <Name>treeC</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moje Dokumenty\Visual Studio 2012\Projects\PROJEKT_PTM\RadioPlane\RadioPlane\RadioPlane\bin\x86\Debug\Content\treeC.xnb</Output>
+      <Time>2014-06-02T13:52:58.0872638+02:00</Time>
+    </Item>
+    <Item>
+      <Source>bggrass2.png</Source>
+      <Name>bggrass2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moje Dokumenty\Visual Studio 2012\Projects\PROJEKT_PTM\RadioPlane\RadioPlane\RadioPlane\bin\x86\Debug\Content\bggrass2.xnb</Output>
+      <Time>2014-06-02T15:31:46.0508571+02:00</Time>
+    </Item>
+    <Item>
+      <Source>mainmenu2.png</Source>
+      <Name>mainmenu2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moje Dokumenty\Visual Studio 2012\Projects\PROJEKT_PTM\RadioPlane\RadioPlane\RadioPlane\bin\x86\Debug\Content\mainmenu2.xnb</Output>
+      <Time>2014-06-02T15:44:34.0387835+02:00</Time>
+    </Item>
+    <Item>
+      <Source>lampaoff.png</Source>
+      <Name>lampaoff</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moje Dokumenty\Visual Studio 2012\Projects\PROJEKT_PTM\RadioPlane\RadioPlane\RadioPlane\bin\x86\Debug\Content\lampaoff.xnb</Output>
+      <Time>2014-06-02T16:22:39.1004815+02:00</Time>
+    </Item>
+    <Item>
+      <Source>lampaon.png</Source>
+      <Name>lampaon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moje Dokumenty\Visual Studio 2012\Projects\PROJEKT_PTM\RadioPlane\RadioPlane\RadioPlane\bin\x86\Debug\Content\lampaon.xnb</Output>
+      <Time>2014-06-02T16:22:51.0021623+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{60A0210D-9405-4A0D-98C6-008C3BDEEBC0}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\Moje Dokumenty\Visual Studio 2012\Projects\PROJEKT_PTM\RadioPlane\RadioPlane\RadioPlaneContent\</RootDirectory>
+      <LoggerRootDirectory>D:\Moje Dokumenty\Visual Studio 2012\Projects\PROJEKT_PTM\RadioPlane\RadioPlane\RadioPlane\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Moje Dokumenty\Visual Studio 2012\Projects\PROJEKT_PTM\RadioPlane\RadioPlane\RadioPlane\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Moje Dokumenty\Visual Studio 2012\Projects\PROJEKT_PTM\RadioPlane\RadioPlane\RadioPlane\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-05-11T11:43:35.4473317+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

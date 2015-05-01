@@ -1,0 +1,18 @@
+d:\moje dokumenty\visual studio 2012\Projects\STM32F4_RF_MOBOT\STM32F4_RF_MOBOT\bin\Debug\STM32F4_RF_MOBOT.exe.config
+d:\moje dokumenty\visual studio 2012\Projects\STM32F4_RF_MOBOT\STM32F4_RF_MOBOT\bin\Debug\STM32F4_RF_MOBOT.exe
+d:\moje dokumenty\visual studio 2012\Projects\STM32F4_RF_MOBOT\STM32F4_RF_MOBOT\bin\Debug\STM32F4_RF_MOBOT.pdb
+d:\moje dokumenty\visual studio 2012\Projects\STM32F4_RF_MOBOT\STM32F4_RF_MOBOT\obj\Debug\STM32F4_RF_MOBOT.csprojResolveAssemblyReference.cache
+d:\moje dokumenty\visual studio 2012\Projects\STM32F4_RF_MOBOT\STM32F4_RF_MOBOT\obj\Debug\STM32F4_RF_MOBOT.exe
+d:\moje dokumenty\visual studio 2012\Projects\STM32F4_RF_MOBOT\STM32F4_RF_MOBOT\obj\Debug\STM32F4_RF_MOBOT.pdb
+C:\Users\Shakecaine\Documents\GitHub\STM32F4_RF\STM32F4_RF_MOBOT\STM32F4_RF_MOBOT\bin\Debug\STM32F4_RF_MOBOT.exe.config
+C:\Users\Shakecaine\Documents\GitHub\STM32F4_RF\STM32F4_RF_MOBOT\STM32F4_RF_MOBOT\obj\Debug\STM32F4_RF_MOBOT.exe
+C:\Users\Shakecaine\Documents\GitHub\STM32F4_RF\STM32F4_RF_MOBOT\STM32F4_RF_MOBOT\obj\Debug\STM32F4_RF_MOBOT.pdb
+C:\Users\Shakecaine\Documents\GitHub\STM32F4_RF\STM32F4_RF_MOBOT\STM32F4_RF_MOBOT\bin\Debug\STM32F4_RF_MOBOT.exe
+C:\Users\Shakecaine\Documents\GitHub\STM32F4_RF\STM32F4_RF_MOBOT\STM32F4_RF_MOBOT\bin\Debug\STM32F4_RF_MOBOT.pdb
+C:\Users\Shakecaine\Documents\GitHub\STM32F4_RF\STM32F4_RF_MOBOT\STM32F4_RF_MOBOT\obj\Debug\STM32F4_RF_MOBOT.csprojResolveAssemblyReference.cache
+D:\Moje Dokumenty\GitHub\STM32F4_RF\STM32F4_RF_MOBOT\STM32F4_RF_MOBOT\bin\Debug\STM32F4_RF_MOBOT.exe.config
+D:\Moje Dokumenty\GitHub\STM32F4_RF\STM32F4_RF_MOBOT\STM32F4_RF_MOBOT\obj\Debug\STM32F4_RF_MOBOT.pdb
+D:\Moje Dokumenty\GitHub\STM32F4_RF\STM32F4_RF_MOBOT\STM32F4_RF_MOBOT\bin\Debug\STM32F4_RF_MOBOT.exe
+D:\Moje Dokumenty\GitHub\STM32F4_RF\STM32F4_RF_MOBOT\STM32F4_RF_MOBOT\bin\Debug\STM32F4_RF_MOBOT.pdb
+D:\Moje Dokumenty\GitHub\STM32F4_RF\STM32F4_RF_MOBOT\STM32F4_RF_MOBOT\obj\Debug\STM32F4_RF_MOBOT.csprojResolveAssemblyReference.cache
+D:\Moje Dokumenty\GitHub\STM32F4_RF\STM32F4_RF_MOBOT\STM32F4_RF_MOBOT\obj\Debug\STM32F4_RF_MOBOT.exe

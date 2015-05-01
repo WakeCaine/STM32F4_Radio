@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadioPlane", "RadioPlane\RadioPlane\RadioPlane.csproj", "{98D408F3-F594-45CB-A477-2E2358323477}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "RadioPlaneContent", "RadioPlane\RadioPlaneContent\RadioPlaneContent.contentproj", "{60A0210D-9405-4A0D-98C6-008C3BDEEBC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98D408F3-F594-45CB-A477-2E2358323477}.Debug|x86.ActiveCfg = Debug|x86
+		{98D408F3-F594-45CB-A477-2E2358323477}.Debug|x86.Build.0 = Debug|x86
+		{98D408F3-F594-45CB-A477-2E2358323477}.Release|x86.ActiveCfg = Release|x86
+		{98D408F3-F594-45CB-A477-2E2358323477}.Release|x86.Build.0 = Release|x86
+		{60A0210D-9405-4A0D-98C6-008C3BDEEBC0}.Debug|x86.ActiveCfg = Debug|x86
+		{60A0210D-9405-4A0D-98C6-008C3BDEEBC0}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
